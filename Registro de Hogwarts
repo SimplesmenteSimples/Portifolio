@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <!--                  formulário                 -->
+
+    <form>
+        <label for="pnome"> Primeiro nome </label><br>
+        <input type="text" id= "pnome" name="pnome"><br>
+        <label for="unome"> Último nome </label><br>
+        <input type="text" id= "unome" name="unome"><br>
+
+        <p> Escolha sua Casa </p>
+        <input type="radio" id="Grifinória" name="casa" value="Grifinória">
+        <label for="Grifinória"> Grifinória </label>
+        <input type="radio" id="Sonserina" name="casa" value="Sonserina">
+        <label for="Sonserina"> Sonserina </label>
+        <input type="radio" id="Lufa Lufa" name="casa" value="Lufa Lufa">
+        <label for="Lufa Lufa"> LufaLufa </label>
+        <input type="radio" id="Corvinal" name="casa" value="Corvinal">
+        <label for="Corvinal"> Corvinal </label> 
+    </form> <br>
+    
+    <input type="submit" value="Enviar Matrícula"> 
+
+    
+</body>
+</html>
