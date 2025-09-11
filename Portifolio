@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>    </header>    
+
+    <main> 
+
+<div> 
+    <p>Olá!</p>
+    <h1>O mundo, moldado pelo sistema capitalista, se tornou um lugar repleto de desigualdades e injustiças. </h1> 
+    <p> É Fácil criticar esse modelo econômico, mas qual a solução para seus problemas? O Comunismo? O Socialismo? Veremos.</p>
+   
+ </div>
+    
+    <!-- butao -->
+<div>   
+    <a> CURRICULO </a>
+    <a> SOCIALIZAR</a>
+</div>
+
+<img src="img/eu.png"style>
+
+    </main>
+
+    <footer>    </footer>
+</body>
+</html>
